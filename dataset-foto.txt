@@ -1,5 +1,0 @@
-rencana dataset daun
--foto lebel
--pendeteksi gambar
-  *web
--laravel
