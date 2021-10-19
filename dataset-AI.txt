@@ -3,3 +3,6 @@ database AI
 -lidah buaya dan pepaya
 -membuat forum diskusi
 -membuat dataset
+-membuat program
+  *menggunakan laragon
+-python
