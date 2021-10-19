@@ -1,2 +1,2 @@
 # dataset
-Repository untuk menyimpan dataset kedepannya 
+Repository untuk menyimpan dataset
